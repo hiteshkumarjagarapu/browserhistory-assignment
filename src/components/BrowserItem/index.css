@@ -1,0 +1,14 @@
+.li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.listItem {
+  display: flex;
+}
+.para {
+  color: '000000';
+}
+.b {
+  background-color: transparent;
+}

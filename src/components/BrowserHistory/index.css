@@ -1,0 +1,20 @@
+.navBar {
+  background-color: '3367d6';
+  display: flex;
+  padding: 10px 30px;
+}
+.searchBox {
+  background-color: '2850a7';
+  margin: auto;
+  width: 400px;
+  height: 40px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.results {
+  background-color: 'ffffff';
+}
+.para {
+  color: '000000';
+}
